@@ -1,0 +1,34 @@
+.left{
+    background-color: rgb(59, 59, 59);
+    color: white;
+    border-right: 1px solid black;
+}
+.media{
+margin-top: 30px;
+}
+.name{
+    background-color: rgb(59, 59, 59)   ;
+    color: white;
+    border-bottom: 1px solid gainsboro;
+}
+.masseg{
+    height:500px;
+    background-color:#18191a;
+    overflow: scroll;
+    
+}
+.h6{
+display: inline-block;
+padding: 10px;
+border-radius: 20px;
+    background-color: gray;
+}
+.comment-Textarea{
+    width: 80%;
+    border-radius: 20px;
+background-color: gray;
+}
+.comments{
+    background-color:rgb(59, 59, 59);
+}
+.allmss{}
